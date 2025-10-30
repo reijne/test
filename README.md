@@ -9,3 +9,5 @@ Super duper text
 symlink update 101
 
 PR-3350 woopie
+
+Module 1 Part B Lecture/Lab Activity
